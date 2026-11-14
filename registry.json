@@ -1,0 +1,35 @@
+{
+  "registryVersion": 1,
+  "vendors": [
+    {
+      "code": "brixel",
+      "name": "Brixel",
+      "github": [
+        "brixel-editor"
+      ]
+    }
+  ],
+  "extensions": [
+    {
+      "id": "exbrixelunocar",
+      "vendorCode": "brixel",
+      "version": "0.2.0",
+      "source": "https://github.com/brixel-editor/brixelai-ext-exunocar",
+      "commit": "aad2255fa61943807128859e998cfc252b08c48f",
+      "approvedAt": "2026-11-15",
+      "main": "https://cdn.jsdelivr.net/gh/brixel-editor/brixelai-ext-exunocar@aad2255fa61943807128859e998cfc252b08c48f/extension.js",
+      "names": {
+        "ko": "우노카(외부 견본)",
+        "en": "Uno Car (external sample)"
+      },
+      "descriptions": {
+        "ko": "외부 하드웨어 확장 기준안 v0 의 견본입니다. 우노카를 USB·블루투스로 움직입니다.",
+        "en": "Sample for the external hardware extension standard v0. Drives the Uno Car over USB or Bluetooth."
+      },
+      "card": {
+        "image": "card.webp",
+        "inset": "inset.webp"
+      }
+    }
+  ]
+}
