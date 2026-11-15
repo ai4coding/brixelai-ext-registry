@@ -27,8 +27,9 @@
         "en": "Sample for the external hardware extension standard v0. Drives the Uno Car over USB or Bluetooth."
       },
       "card": {
-        "image": "card.webp",
-        "inset": "inset.webp"
+        "image": "cards/exbrixelunocar/aad2255-image.webp",
+        "inset": "cards/exbrixelunocar/aad2255-inset.webp",
+        "from": "registry"
       }
     }
   ]
